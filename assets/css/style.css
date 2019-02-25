@@ -1,0 +1,17 @@
+body {
+  background-color: yellow;
+}
+
+img {
+  width: 110%;
+  height: 110%;
+}
+
+/* button {
+  align: center;
+} */
+
+.headerrow {
+  background-color: black;
+  font: yellow;
+}
